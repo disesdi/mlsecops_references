@@ -194,6 +194,8 @@ Abbasi, Hossein, Naser Ezzati-Jivan, Martine Bellaïche, Chamseddine Talhi and M
 
 Bhamare, Deval, Tara Salman, Mohammed Samaka, Aiman Erbad and Raj Jain. “Feasibility of Supervised Machine Learning for Cloud Security.” 2016 International Conference on Information Science and Security (ICISS) (2016): 1-5.
 
+[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+
 ## AIML Intrusion & Malware Detection Systems
 
 Grosse, Kathrin, Nicolas Papernot, Praveen Manoharan, Michael Backes and Patrick Mcdaniel. “Adversarial Perturbations Against Deep Neural Networks for Malware Classification.” ArXiv abs/1606.04435 (2016): n. pag.
