@@ -10,20 +10,20 @@
 
 ## Contents:
 
-* [AIML Security Surveys & Taxonomies](https://github.com/disesdi/proto_papers/blob/main/README.md#aiml-security-surveys--taxonomies)
-* [Adversarial AIML Attacks](https://github.com/disesdi/proto_papers/blob/main/README.md#adversarial-aiml-attacks)
-* [AIML Security for Cyber-Physical Systems & IoT](https://github.com/disesdi/proto_papers/blob/main/README.md#aiml-security-for-cyber-physical-systems--iot)
-* [AIML Cloud Security](https://github.com/disesdi/proto_papers/blob/main/README.md#aiml-cloud-security)
-* [AIML Intrusion & Malware Detection Systems](https://github.com/disesdi/proto_papers/blob/main/README.md#aiml-intrusion--malware-detection-systems)
-* [Federation](https://github.com/disesdi/proto_papers/blob/main/README.md#federation)
-* [MLOps](https://github.com/disesdi/proto_papers/blob/main/README.md#mlops)
-    * [MLOps Overview](https://github.com/disesdi/proto_papers/blob/main/README.md#mlops-overview)
-    * [MLOps, SecOps and Failure Modes & Effects Analysis (FMEA)](https://github.com/disesdi/proto_papers/blob/main/README.md#mlops-secops-and-failure-modes--effects-analysis-fmea)
-    * [MLOps Supply Chain & Data](https://github.com/disesdi/proto_papers/blob/main/README.md#mlops-supply-chain--data)
-    * [MLOps for Edge & IoT](https://github.com/disesdi/proto_papers/blob/main/README.md#mlops-for-edge--iot)
-    * [MLOps Policy & Compliance](https://github.com/disesdi/proto_papers/blob/main/README.md#mlops-policy--compliance)
-* [Threat Modeling & Secure Design](https://github.com/disesdi/proto_papers/blob/main/README.md#threat-modeling--secure-design)
-* [Datasets](https://github.com/disesdi/proto_papers/blob/main/README.md#datasets)
+* [AIML Security Surveys & Taxonomies](README.md#aiml-security-surveys--taxonomies)
+* [Adversarial AIML Attacks](README.md#adversarial-aiml-attacks)
+* [AIML Security for Cyber-Physical Systems & IoT](README.md#aiml-security-for-cyber-physical-systems--iot)
+* [AIML Cloud Security](README.md#aiml-cloud-security)
+* [AIML Intrusion & Malware Detection Systems](README.md#aiml-intrusion--malware-detection-systems)
+* [Federation](README.md#federation)
+* [MLOps](README.md#mlops)
+    * [MLOps Overview](README.md#mlops-overview)
+    * [MLOps, SecOps and Failure Modes & Effects Analysis (FMEA)](README.md#mlops-secops-and-failure-modes--effects-analysis-fmea)
+    * [MLOps Supply Chain & Data](README.md#mlops-supply-chain--data)
+    * [MLOps for Edge & IoT](README.md#mlops-for-edge--iot)
+    * [MLOps Policy & Compliance](README.md#mlops-policy--compliance)
+* [Threat Modeling & Secure Design](README.md#threat-modeling--secure-design)
+* [Datasets](README.md#datasets)
 
 
 ## AIML Security Surveys & Taxonomies
@@ -72,7 +72,7 @@ Chakraborty, Anirban, Manaar Alam, Vishal Dey, Anupam Chattopadhyay and Debdeep 
 
 Raji, Inioluwa Deborah, Andrew Smart, Rebecca N. White, Margaret Mitchell, Timnit Gebru, Ben Hutchinson, Jamila Smith-Loud, Daniel Theron and Parker Barnes. “Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing.” Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (2020): n. pag.
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ## Adversarial AIML Attacks
 
@@ -104,7 +104,7 @@ Steinhardt, Jacob, Pang Wei Koh and Percy Liang. “Certified Defenses for Data 
 
 Lin, Zilong, Yong-yu Shi and Zhi Xue. “IDSGAN: Generative Adversarial Networks for Attack Generation against Intrusion Detection.” Pacific-Asia Conference on Knowledge Discovery and Data Mining (2018).
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ## AIML Security for Cyber-Physical Systems & IoT
 
@@ -180,7 +180,7 @@ Kim, Brian, Yalin Evren Sagduyu, Kemal Davaslioglu, Tugba Erpek and Sennur Uluku
 
 Luo, Zhengping, Shangqing Zhao, Zhuo Lu, Jie Xu and Yalin Evren Sagduyu. “When Attackers Meet AI: Learning-Empowered Attacks in Cooperative Spectrum Sensing.” IEEE Transactions on Mobile Computing 21 (2019): 1892-1908.
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ## AIML Cloud Security
 
@@ -194,7 +194,7 @@ Abbasi, Hossein, Naser Ezzati-Jivan, Martine Bellaïche, Chamseddine Talhi and M
 
 Bhamare, Deval, Tara Salman, Mohammed Samaka, Aiman Erbad and Raj Jain. “Feasibility of Supervised Machine Learning for Cloud Security.” 2016 International Conference on Information Science and Security (ICISS) (2016): 1-5.
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ## AIML Intrusion & Malware Detection Systems
 
@@ -220,7 +220,7 @@ Gümüşbaş, Dilara, Tülay Yıldırım, Angelo Genovese and Fabio Scotti. “A
 
 AbhishekV, A, S Binny, R JohanT, Nithin Raj and Vishal Thomas. “Federated Learning: Collaborative Machine Learning without Centralized Training Data.” international journal of engineering technology and management sciences (2022): n. pag.
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ## Federation
 
@@ -260,7 +260,7 @@ Fowl, Liam, Jonas Geiping, Wojciech Czaja, Micah Goldblum and Tom Goldstein. “
 
 Maddock, Samuel, Alexandre Sablayrolles and Pierre Stock. “CANIFE: Crafting Canaries for Empirical Privacy Measurement in Federated Learning.” ArXiv abs/2210.02912 (2022): n. pag.
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 
 ## MLOps
@@ -363,7 +363,7 @@ Banerjee, Amit, Chien-Chia Chen, Chien-Chun Hung, Xiaobo Huang, Yifan Wang and R
 
 Horkoff, Jennifer. “Non-Functional Requirements for Machine Learning: Challenges and New Directions.” 2019 IEEE 27th International Requirements Engineering Conference (RE) (2019): 386-391.
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ### MLOps, SecOps and Failure Modes & Effects Analysis (FMEA)
 
@@ -403,7 +403,7 @@ Xiong, Pulei, Scott Buffett, Shahrear Iqbal, Philippe Lamontagne, Mohammad Saifu
 
 Papernot, Nicolas, Patrick Mcdaniel, Arunesh Sinha and Michael P. Wellman. “Towards the Science of Security and Privacy in Machine Learning.” ArXiv abs/1611.03814 (2016): n. pag.
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ### MLOps Supply Chain & Data
 
@@ -417,7 +417,7 @@ Ruf, Philipp, Manav Madan, Christoph Reich and Djaffar Ould-Abdeslam. “Demysti
 
 Sculley, D., Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, Dietmar Ebner, Vinay Chaudhary, Michael Young, Jean-François Crespo and Dan Dennison. “Hidden Technical Debt in Machine Learning Systems.” NIPS (2015).
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ### MLOps for Edge & IoT
 
@@ -445,7 +445,7 @@ Vuppalapati, Chandrasekar, Anitha Ilapakurti, Karthik Chillara, Sharat Kedari an
 
 Almurshed, Osama, Panos Patros, Victoria Huang, Michael Mayo, Melanie Ooi, Ryan Chard, Kyle Chard, Omer Farooq Rana, Harshaan Nagra, Matt Baughman and Ian T. Foster. “Adaptive Edge-Cloud Environments for Rural AI.” 2022 IEEE International Conference on Services Computing (SCC) (2022): 74-83.
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ### MLOps Policy & Compliance
 
@@ -491,7 +491,7 @@ Shankar, Shreya and Aditya G. Parameswaran. “Towards Observability for Machine
 
 Veale, Michael, Reuben Binns and Lilian Edwards. “Algorithms that remember: model inversion attacks and data protection law.” Philosophical transactions. Series A, Mathematical, physical, and engineering sciences 376 (2018): n. pag.
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ## Threat Modeling & Secure Design
 
@@ -501,7 +501,7 @@ Khan, Rafiullah, Kieran McLaughlin, David M. Laverty and Sakir Sezer. “STRIDE-
 
 Myagmar, Suvda, Adam J. Lee and William Yurcik. “Threat Modeling as a Basis for Security Requirements.” (2005).
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
 
 ## Datasets
 
@@ -547,4 +547,4 @@ Kendall, Kristopher R.. “A Database of Computer Attacks for the Evaluation of 
 
 Dua, Sumeet and Xian Du. “Data Mining and Machine Learning in Cybersecurity.” (2011).
 
-[top](https://github.com/disesdi/proto_papers/blob/main/README.md#mlsecops-reference-repository)
+[top](README.md#mlsecops-reference-repository)
