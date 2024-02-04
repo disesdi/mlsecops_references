@@ -76,21 +76,13 @@ Raji, Inioluwa Deborah, Andrew Smart, Rebecca N. White, Margaret Mitchell, Timni
 
 ## Adversarial AIML Attacks
 
+### Adversarial AIML Overview
+
 Kurakin, Alexey, Ian J. Goodfellow and Samy Bengio. “Adversarial Machine Learning at Scale.” ArXiv abs/1611.01236 (2016): n. pag.
 
 Narodytska, Nina and Shiva Prasad Kasiviswanathan. “Simple Black-Box Adversarial Attacks on Deep Neural Networks.” 2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) (2017): 1310-1318.
 
-Tramèr, Florian, Fan Zhang, Ari Juels, Michael K. Reiter and Thomas Ristenpart. “Stealing Machine Learning Models via Prediction APIs.” ArXiv abs/1609.02943 (2016): n. pag.
-
-Geiping, Jonas, Liam Fowl, W. Ronny Huang, Wojciech Czaja, Gavin Taylor, Michael Moeller and Tom Goldstein. “Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching.” ArXiv abs/2009.02276 (2020): n. pag.
-
 Oseni, Ayodeji, Nour Moustafa, Helge Janicke, Peng Liu, Zahir Tari and Athanasios V. Vasilakos. “Security and Privacy for Artificial Intelligence: Opportunities and Challenges.” ArXiv abs/2102.04661 (2021): n. pag.
-
-Schwarzschild, Avi, Micah Goldblum, Arjun Gupta, John P. Dickerson and Tom Goldstein. “Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.” International Conference on Machine Learning (2020).
-
-Lécuyer, Mathias, Vaggelis Atlidakis, Roxana Geambasu, Daniel J. Hsu and Suman Sekhar Jana. “On the Connection between Differential Privacy and Adversarial Robustness in Machine Learning.” ArXiv abs/1802.03471 (2018): n. pag.
-
-Tramèr, Florian, R. Shokri, Ayrton San Joaquin, Hoang M. Le, Matthew Jagielski, Sanghyun Hong and Nicholas Carlini. “Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets.” Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (2022): n. pag.
 
 Clements, Joseph, Yuzhe Yang, Ankur A Sharma, Hongxin Hu and Yingjie Lao. “Rallying Adversarial Techniques against Deep Learning for Network Security.” 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (2019): 01-08.
 
@@ -98,11 +90,139 @@ Biggio, Battista and Fabio Roli. “Wild Patterns: Ten Years After the Rise of A
 
 Kuppa, Aditya, Slawomir Grzonkowski, Muhammad Rizwan Asghar and Nhien-An Le-Khac. “Black Box Attacks on Deep Anomaly Detectors.” Proceedings of the 14th International Conference on Availability, Reliability and Security (2019): n. pag.
 
+Lin, Zilong, Yong-yu Shi and Zhi Xue. “IDSGAN: Generative Adversarial Networks for Attack Generation against Intrusion Detection.” Pacific-Asia Conference on Knowledge Discovery and Data Mining (2018).
+
 Akhtar, Naveed and Ajmal S. Mian. “Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey.” IEEE Access 6 (2018): 14410-14430.
+
+Tramèr, Florian, Fan Zhang, Ari Juels, Michael K. Reiter and Thomas Ristenpart. “Stealing Machine Learning Models via Prediction APIs.” ArXiv abs/1609.02943 (2016): n. pag.
+
+Wu, Baoyuan, Li Liu, Zihao Zhu, Qin Liu, Zhaofeng He and Siwei Lyu. “Attacks in Adversarial Machine Learning: A Systematic Survey from the Life-cycle Perspective.” (2023).
+
+[top](README.md#mlsecops-reference-repository)
+
+### Data Poisoning Attacks
+
+Geiping, Jonas, Liam Fowl, W. Ronny Huang, Wojciech Czaja, Gavin Taylor, Michael Moeller and Tom Goldstein. “Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching.” ArXiv abs/2009.02276 (2020): n. pag.
+
+Schwarzschild, Avi, Micah Goldblum, Arjun Gupta, John P. Dickerson and Tom Goldstein. “Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.” International Conference on Machine Learning (2020).
+
+Lécuyer, Mathias, Vaggelis Atlidakis, Roxana Geambasu, Daniel J. Hsu and Suman Sekhar Jana. “On the Connection between Differential Privacy and Adversarial Robustness in Machine Learning.” ArXiv abs/1802.03471 (2018): n. pag.
+
+Tramèr, Florian, R. Shokri, Ayrton San Joaquin, Hoang M. Le, Matthew Jagielski, Sanghyun Hong and Nicholas Carlini. “Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets.” Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (2022): n. pag.
 
 Steinhardt, Jacob, Pang Wei Koh and Percy Liang. “Certified Defenses for Data Poisoning Attacks.” ArXiv abs/1706.03691 (2017): n. pag.
 
-Lin, Zilong, Yong-yu Shi and Zhi Xue. “IDSGAN: Generative Adversarial Networks for Attack Generation against Intrusion Detection.” Pacific-Asia Conference on Knowledge Discovery and Data Mining (2018).
+[top](README.md#mlsecops-reference-repository)
+
+### Membership Inference Attacks
+
+Shokri, R., Marco Stronati, Congzheng Song and Vitaly Shmatikov. “Membership Inference Attacks Against Machine Learning Models.” 2017 IEEE Symposium on Security and Privacy (SP) (2016): 3-18.
+
+Hu, Hongsheng, Zoran A. Salcic, Lichao Sun, Gillian Dobbie, P. Yu and Xuyun Zhang. “Membership Inference Attacks on Machine Learning: A Survey.” ACM Computing Surveys (CSUR) 54 (2021): 1 - 37.
+
+Hu, Hongsheng, Zoran A. Salcic, Lichao Sun, Gillian Dobbie, P. Yu and Xuyun Zhang. “Membership Inference Attacks on Machine Learning: A Survey.” ACM Computing Surveys (CSUR) 54 (2021): 1 - 37.
+
+Salem, A., Yang Zhang, Mathias Humbert, Mario Fritz and Michael Backes. “ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models.” ArXiv abs/1806.01246 (2018): n. pag.
+
+Carlini, Nicholas, Steve Chien, Milad Nasr, Shuang Song, A. Terzis and Florian Tramèr. “Membership Inference Attacks From First Principles.” 2022 IEEE Symposium on Security and Privacy (SP) (2021): 1897-1914.
+
+Hilprecht, Benjamin, Martin Härterich and Daniel Bernau. “Monte Carlo and Reconstruction Membership Inference Attacks against Generative Models.” Proceedings on Privacy Enhancing Technologies 2019 (2019): 232 - 249.
+
+Choquette-Choo, Christopher A., Florian Tramèr, Nicholas Carlini and Nicolas Papernot. “Label-Only Membership Inference Attacks.” ArXiv abs/2007.14321 (2020): n. pag.
+
+Li, Zheng and Yang Zhang. “Membership Leakage in Label-Only Exposures.” Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (2020): n. pag.
+
+Salem, A., Apratim Bhattacharyya, Michael Backes, Mario Fritz and Yang Zhang. “Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning.” USENIX Security Symposium (2019).
+
+Nasr, Milad, R. Shokri and Amir Houmansadr. “Machine Learning with Membership Privacy using Adversarial Regularization.” Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security (2018): n. pag.
+
+Song, Liwei and Prateek Mittal. “Systematic Evaluation of Privacy Risks of Machine Learning Models.” USENIX Security Symposium (2020).
+
+Truex, Stacey, Ling Liu, Mehmet Emre Gursoy, Lei Yu and Wenqi Wei. “Towards Demystifying Membership Inference Attacks.” ArXiv abs/1807.09173 (2018): n. pag.
+
+Li, Zheng and Yang Zhang. “Label-Leaks: Membership Inference Attack with Label.” ArXiv abs/2007.15528 (2020): n. pag.
+
+Yeom, Samuel, Irene Giacomelli, Matt Fredrikson and Somesh Jha. “Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting.” 2018 IEEE 31st Computer Security Foundations Symposium (CSF) (2017): 268-282.
+
+Long, Yunhui, Vincent Bindschaedler, Lei Wang, Diyue Bu, Xiaofeng Wang, Haixu Tang, Carl A. Gunter and Kai Chen. “Understanding Membership Inferences on Well-Generalized Learning Models.” ArXiv abs/1802.04889 (2018): n. pag.
+
+Zou, Yang, Zhikun Zhang, Michael Backes and Yang Zhang. “Privacy Analysis of Deep Learning in the Wild: Membership Inference Attacks against Transfer Learning.” ArXiv abs/2009.04872 (2020): n. pag.
+
+Liu, Yugeng, Rui Wen, Xinlei He, A. Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz and Yang Zhang. “ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models.” USENIX Security Symposium (2021).
+
+Rahimian, Shadi, Tribhuvanesh Orekondy and Mario Fritz. “Sampling Attacks: Amplification of Membership Inference Attacks by Repeated Queries.” ArXiv abs/2009.00395 (2020): n. pag.
+
+He, Xinlei, Zheng Li, Weilin Xu, Cory Cornelius and Yang Zhang. “Membership-Doctor: Comprehensive Assessment of Membership Inference Against Machine Learning Models.” ArXiv abs/2208.10445 (2022): n. pag.
+
+Wang, Chen, Gaoyang Liu, Haojun Huang, Weijie Feng, Kai Peng and Lizhe Wang. “MIASec: Enabling Data Indistinguishability Against Membership Inference Attacks in MLaaS.” IEEE Transactions on Sustainable Computing 5 (2020): 365-376.
+
+Long, Yunhui, Lei Wang, Diyue Bu, Vincent Bindschaedler, Xiaofeng Wang, Haixu Tang, Carl A. Gunter and Kai Chen. “A Pragmatic Approach to Membership Inferences on Machine Learning Models.” 2020 IEEE European Symposium on Security and Privacy (EuroS&P) (2020): 521-534.
+
+Tramèr, Florian, R. Shokri, Ayrton San Joaquin, Hoang M. Le, Matthew Jagielski, Sanghyun Hong and Nicholas Carlini. “Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets.” Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (2022): n. pag.
+
+Li, Jiacheng, Ninghui Li and Bruno Ribeiro. “Membership Inference Attacks and Defenses in Classification Models.” Proceedings of the Eleventh ACM Conference on Data and Application Security and Privacy (2020): n. pag.
+
+Ye, Jiayuan, Aadyaa Maddi, Sasi Kumar Murakonda and R. Shokri. “Enhanced Membership Inference Attacks against Machine Learning Models.” Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (2021): n. pag.
+
+Farokhi, Farhad and Mohamed Ali Kâafar. “Modelling and Quantifying Membership Information Leakage in Machine Learning.” ArXiv abs/2001.10648 (2020): n. pag.
+
+Balle, Borja, Giovanni Cherubin and Jamie Hayes. “Reconstructing Training Data with Informed Adversaries.” 2022 IEEE Symposium on Security and Privacy (SP) (2022): 1138-1156.
+
+[top](README.md#mlsecops-reference-repository)
+
+### Differential Privacy Attacks
+
+Liu, Changchang, Supriyo Chakraborty and Prateek Mittal. “Dependence Makes You Vulnberable: Differential Privacy Under Dependent Tuples.” Network and Distributed System Security Symposium (2016).
+
+Truex, Stacey, Ling Liu, Mehmet Emre Gursoy, Wenqi Wei and Lei Yu. “Effects of Differential Privacy and Data Skewness on Membership Inference Vulnerability.” 2019 First IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) (2019): 82-91.
+
+Rahman, Md.Atiqur, Tanzila Rahman, Robert Laganière and Noman Mohammed. “Membership Inference Attack against Differentially Private Deep Learning Model.” Trans. Data Priv. 11 (2018): 61-79.
+
+Cao, Yang, Masatoshi Yoshikawa, Yonghui Xiao and Li Xiong. “Quantifying Differential Privacy under Temporal Correlations.” 2017 IEEE 33rd International Conference on Data Engineering (ICDE) (2016): 821-832.
+
+Jin, Jiankai, Eleanor McMurtry, Benjamin I. P. Rubinstein and Olga Ohrimenko. “Are We There Yet? Timing and Floating-Point Attacks on Differential Privacy Systems.” 2022 IEEE Symposium on Security and Privacy (SP) (2021): 473-488.
+
+Cao, Yang, Masatoshi Yoshikawa, Yonghui Xiao and Li Xiong. “Quantifying Differential Privacy in Continuous Data Release Under Temporal Correlations.” IEEE Transactions on Knowledge and Data Engineering 31 (2017): 1281-1295.
+
+Kato, Fumiyuki, Yang Cao and Masatoshi Yoshikawa. “Preventing Manipulation Attack in Local Differential Privacy using Verifiable Randomization Mechanism.” ArXiv abs/2104.06569 (2021): n. pag.
+
+Zhang, Bo, Ruotong Yu, Haipei Sun, Yanying Li, Jun Xu and Wendy Hui Wang. “Privacy for All: Demystify Vulnerability Disparity of Differential Privacy against Membership Inference Attack.” ArXiv abs/2001.08855 (2020): n. pag.
+
+Zhao, Jun, Junshan Zhang and H. Vincent Poor. “Dependent Differential Privacy for Correlated Data.” 2017 IEEE Globecom Workshops (GC Wkshps) (2017): 1-7.
+
+Murakami, Takao and Yusuke Kawamoto. “Utility-Optimized Local Differential Privacy Mechanisms for Distribution Estimation.” USENIX Security Symposium (2018).
+
+Humphries, Thomas, Matthew Rafuse, Lindsey Tulloch, Simon Oya, Ian Goldberg and Florian Kerschbaum. “Differentially Private Learning Does Not Bound Membership Inference.” ArXiv abs/2010.12112 (2020): n. pag.
+
+Haney, Samuel, Damien Desfontaines, Luke Hartman, Ruchit Shrestha and Michael Hay. “Precision-based attacks and interval refining: how to break, then fix, differential privacy on finite computers.” ArXiv abs/2207.13793 (2022): n. pag.
+
+Holohan, Naoise and Stefano Braghin. “Secure Random Sampling in Differential Privacy.” European Symposium on Research in Computer Security (2021).
+
+Yan, Haonan, Xiaoguang Li, Hui Li, Jiamin Li, Wenhai Sun and Fenghua Li. “Monitoring-Based Differential Privacy Mechanism Against Query Flooding-Based Model Extraction Attack.” IEEE Transactions on Dependable and Secure Computing 19 (2021): 2680-2694.
+
+Meiser, Sebastian and Esfandiar Mohammadi. “Tight on Budget?: Tight Bounds for r-Fold Approximate Differential Privacy.” Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security (2018): n. pag.
+
+Gao, Jie, Ruobin Gong and Fang-Yi Yu. “Subspace Differential Privacy.” AAAI Conference on Artificial Intelligence (2021).
+
+Almadhoun, Nour, Erman Ayday and Özgür Ulusoy. “Differential privacy under dependent tuples - the case of genomic privacy.” Bioinformatics (2019): n. pag.
+
+Ji, Tianxi, Pan Li, Emre Yilmaz, Erman Ayday, Yanfang Ye and Jinyuan Sun. “Differentially Private Binary- and Matrix-Valued Data Query: An XOR Mechanism.” Proc. VLDB Endow. 14 (2021): 849-862.
+
+Almadhoun, Nour, Erman Ayday and Özgür Ulusoy. “Inference attacks against differentially private query results from genomic datasets including dependent tuples.” Bioinformatics 36 (2020): i136 - i145.
+
+Wang, Hongya, Zhengquan Xu, Shan Jia, Ying Xia and Xu Zhang. “Why current differential privacy schemes are inapplicable for correlated data publishing?” World Wide Web 24 (2020): 1-23.
+
+Boenisch, Franziska, Philip Sperl and Konstantin Böttinger. “Gradient Masking and the Underestimated Robustness Threats of Differential Privacy in Deep Learning.” ArXiv abs/2105.07985 (2021): n. pag.
+
+Chen, Junjie, Wendy Hui Wang and Xinghua Shi. “Differential Privacy Protection Against Membership Inference Attack on Machine Learning for Genomic Data.” bioRxiv (2020): n. pag.
+
+Choi, Seung Geol, Dana Dachman-Soled, Mukul Kulkarni and Arkady Yerukhimovich. “Differentially-Private Multi-Party Sketching for Large-Scale Statistics.” Proceedings on Privacy Enhancing Technologies 2020 (2020): 153 - 174.
+
+Rassouli, Borzoo, Fernando E. Rosas and Deniz Gündüz. “Data Disclosure Under Perfect Sample Privacy.” IEEE Transactions on Information Forensics and Security 15 (2019): 2012-2025.
+
+Liu, Changchang, Xi He, Thee Chanyaswad, Shiqiang Wang and Prateek Mittal. “Investigating Statistical Privacy Frameworks from the Perspective of Hypothesis Testing.” Proceedings on Privacy Enhancing Technologies 2019 (2019): 233 - 254.
+
+Wang, Jincheng, Zhuohua Li, John C.S. Lui and Mingshen Sun. “Topology-Theoretic Approach To Address Attribute Linkage Attacks In Differential Privacy.” IEEE INFOCOM 2021 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (2021): 1-6.
 
 [top](README.md#mlsecops-reference-repository)
 
@@ -260,8 +380,9 @@ Fowl, Liam, Jonas Geiping, Wojciech Czaja, Micah Goldblum and Tom Goldstein. “
 
 Maddock, Samuel, Alexandre Sablayrolles and Pierre Stock. “CANIFE: Crafting Canaries for Empirical Privacy Measurement in Federated Learning.” ArXiv abs/2210.02912 (2022): n. pag.
 
-[top](README.md#mlsecops-reference-repository)
+Liu, Yi, Ruihui Zhao, Jiawen Kang, Abdulsalam Yassine, Dusit Tao Niyato and Jia-Jie Peng. “Towards Communication-Efficient and Attack-Resistant Federated Edge Learning for Industrial Internet of Things.” ACM Transactions on Internet Technology (TOIT) 22 (2020): 1 - 22.
 
+[top](README.md#mlsecops-reference-repository)
 
 ## MLOps
 
