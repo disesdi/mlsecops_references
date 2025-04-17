@@ -1,12 +1,16 @@
 # MLSecOps Reference Repository
 
-*A repo for some of the most influential papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, & more.*
+*A repo for curated papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, & more.*
 
 *Read my work on MLSecOps:*
 
-> **[Securing AIML Systems in the Age of Information Warfare](https://anglesofattack.io/Securing_AIML_Systems_in_IW_Cox.pdf)**
+> **[Securing AIML Systems in the Age of Information Warfare](https://zenodo.org/records/13905972)**
 > 
-> An OODA Loop-based game theoretic model of information warfare in AI/ML systems, with boolean-path threat modeling & cyber resiliency metrics, + a secure, operationalized, platform-agnostic, fully audited debiasing architecture adapted to the canonical MLOps development cycle
+> A novel AI/machine learning security operations (AI/MLSecOps) architecture, including systems for operationalized security, auditing, data threat, and information warfare detection, along with OODA Loop-based game theoretic modeling of information warfare in AI/ML systems, and boolean path threat modeling & cyber resiliency metrics adapted to the canonical MLOps development cycle.
+>
+>  **[AI-DAL: Towards Security Design Assurance for Artificial Intelligence Systems in Production](https://zenodo.org/records/13905960)**
+>
+> The rise of artificial intelligence applications in society, and their accompanying security concerns, has created a need for regulatory oversight that is auditable, actionable, and adaptable to a rapidly changing technological landscape. Methods from safety-critical software engineering, particularly aerospace, are adapted to use in production AIML to aid both practitioners and regulators in establishing design thresholds for AIML system security. Assignment of AI Design Assurance Levels (AI-DAL) to projects/components, along with production of related compliance artifacts, is proposed as a means of consistently applying appropriate design requirements based on a system’s potential adverse impact.
 
 ## Contents:
 
