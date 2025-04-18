@@ -1,8 +1,8 @@
 # MLSecOps Reference Repository
 
-*A repo for curated papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, & more.*
+*A curated repo for papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, & more.*
 
-*Read my work on MLSecOps:*
+*Read my work on AI Security:*
 
 > **[Securing AIML Systems in the Age of Information Warfare](https://zenodo.org/records/13905972)**
 > 
