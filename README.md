@@ -32,6 +32,7 @@
     * [MLOps Policy & Compliance](README.md#mlops-policy--compliance)
 * [Threat Modeling & Secure Design](README.md#threat-modeling--secure-design)
 * [Datasets](README.md#datasets)
+* [Agentic AI](README.md#agentic-ai)
 
 
 ## AIML Security Surveys & Taxonomies
@@ -677,3 +678,14 @@ Kendall, Kristopher R.. “A Database of Computer Attacks for the Evaluation of 
 Dua, Sumeet and Xian Du. “Data Mining and Machine Learning in Cybersecurity.” (2011).
 
 [top](README.md#mlsecops-reference-repository)
+
+## Agentic AI
+
+Masterman, Tula, Sandi Besen, Mason Sawtell and Alex Chao. “The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey.” ArXiv abs/2404.11584 (2024): n. Pag.
+
+Shavit, Yonadav, Sandhini Agarwal, Miles Brundage, Steven Adler Cullen O’Keefe, Rosie Campbell, Teddy Lee, Pamela Mishkin, Tyna Eloundou, Alan Hickey, Katarina Slama, Lama Ahmad, Paul McMillan, Alex Beutel, Alexandre Passos and David G. Robinson. “Practices for Governing Agentic AI Systems.”
+
+Putta, Pranav, Edmund Mills, Naman Garg, Sumeet Ramesh Motwani, Chelsea Finn, Divyansh Garg and Rafael Rafailov. “Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents.” ArXiv abs/2408.07199 (2024): n. Pag.
+
+[top](README.md#mlsecops-reference-repository)
+
