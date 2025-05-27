@@ -687,5 +687,11 @@ Shavit, Yonadav, Sandhini Agarwal, Miles Brundage, Steven Adler Cullen O’Keefe
 
 Putta, Pranav, Edmund Mills, Naman Garg, Sumeet Ramesh Motwani, Chelsea Finn, Divyansh Garg and Rafael Rafailov. “Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents.” ArXiv abs/2408.07199 (2024): n. Pag.
 
+Yu, Miao, Fanci Meng, Xinyun Zhou, Shilong Wang, Junyuan Mao, Linsey Pang, Tianlong Chen, Kun Wang, Xinfeng Li, Yongfeng Zhang, Bo An and Qingsong Wen. “A Survey on Trustworthy LLM Agents: Threats and Countermeasures.” ArXiv abs/2503.09648 (2025): n. pag.
+
+Khan, Raihan, Sayak Sarkar, Sainik Kumar Mahata and Edwin Jose. “Security Threats in Agentic AI System.” ArXiv abs/2410.14728 (2024): n. Pag.
+
+He, Feng, Tianqing Zhu, Dayong Ye, Bo Liu, Wanlei Zhou and Philip S. Yu. “The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies.” ArXiv abs/2407.19354 (2024): n. Pag.
+
 [top](README.md#mlsecops-reference-repository)
 
