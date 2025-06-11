@@ -32,6 +32,7 @@
     * [MLOps Policy & Compliance](README.md#mlops-policy--compliance)
 * [Threat Modeling & Secure Design](README.md#threat-modeling--secure-design)
 * [Datasets](README.md#datasets)
+* [LLM Security](README.md#llm-security)
 * [Agentic AI](README.md#agentic-ai)
 
 
@@ -678,6 +679,14 @@ Kendall, Kristopher R.. “A Database of Computer Attacks for the Evaluation of 
 Dua, Sumeet and Xian Du. “Data Mining and Machine Learning in Cybersecurity.” (2011).
 
 [top](README.md#mlsecops-reference-repository)
+
+## LLM Security
+
+Wu, Fangzhou, Ning Zhang, Somesh Jha, Patrick Drew McDaniel and Chaowei Xiao. “A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems.” ArXiv abs/2402.18649 (2024): n. Pag.
+
+Yao, Yifan, Jinhao Duan, Kaidi Xu, Yuanfang Cai, Eric Sun and Yue Zhang. “A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly.” ArXiv abs/2312.02003 (2023): n. Pag.
+
+Peng, Benji, Keyu Chen, Ming Li, Pohsun Feng, Ziqian Bi, Junyu Liu and Qian Niu. “Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks.” ArXiv abs/2409.08087 (2024): n. pag.
 
 ## Agentic AI
 
