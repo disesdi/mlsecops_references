@@ -702,5 +702,7 @@ Khan, Raihan, Sayak Sarkar, Sainik Kumar Mahata and Edwin Jose. “Security Thre
 
 He, Feng, Tianqing Zhu, Dayong Ye, Bo Liu, Wanlei Zhou and Philip S. Yu. “The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies.” ArXiv abs/2407.19354 (2024): n. Pag.
 
+Xinyi Hou, Yanjie Zhao, Shenao Wang, Haoyu Wang "Model Context Protocol (MCP) : Landscape, Security Threats, and Future Research Directions" ArXiv abs/2503.23278 (2025)
+
 [top](README.md#mlsecops-reference-repository)
 
